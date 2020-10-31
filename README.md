@@ -21,6 +21,16 @@
 
 <img src="./colorsynth.png" />
 
+<img src="./greying.png" />
+
+<img src="./redrore.png" />
+
+<img src="P0001.png" />
+
 <img src="./fire.png" />
 
 <img src="./wavy.png" />
+
+<img src="./primitivity.png" />
+
+<img src="./dichotomy.png" />
