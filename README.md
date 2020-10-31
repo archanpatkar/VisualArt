@@ -25,7 +25,7 @@
 
 <img src="./redrore.png" />
 
-<img src="P0001.png" />
+<img src="P001.png" />
 
 <img src="./fire.png" />
 
@@ -33,4 +33,8 @@
 
 <img src="./primitivity.png" />
 
+<img src="./pollockian.png" />
+
 <img src="./dichotomy.png" />
+
+<img src="./deception.png" />
