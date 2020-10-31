@@ -23,6 +23,8 @@
 
 <img src="./greying.png" />
 
+<img src="./deception.png" />
+
 <img src="./redrore.png" />
 
 <img src="P001.png" />
@@ -33,8 +35,12 @@
 
 <img src="./primitivity.png" />
 
+<img src="./veritas.png" />
+
 <img src="./pollockian.png" />
 
 <img src="./dichotomy.png" />
 
-<img src="./deception.png" />
+<img src="./dizzy.png" />
+
+
