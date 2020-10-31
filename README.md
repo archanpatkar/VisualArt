@@ -1,2 +1,6 @@
 # VisualArt
-Art in a repo the emergent forest unraveling through evolutionary lens of me
+The emergent dynamical art forest growing unraveling through co-evolutionary lens of me
+
+## -
+
+<img src="./" />
