@@ -11,6 +11,16 @@
 
 <img src="./tornado.png" />
 
+<img src="./stripes.png" />
+
+<img src="./tectonic.png" />
+
+<img src="./night.png" />
+
+<img src="./redbrain.png" />
+
+<img src="./colorsynth.png" />
+
 <img src="./fire.png" />
 
 <img src="./wavy.png" />
