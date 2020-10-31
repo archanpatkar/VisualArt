@@ -23,6 +23,8 @@
 
 <img src="./greying.png" />
 
+<img src="./velocity.png" />
+
 <img src="./deception.png" />
 
 <img src="./redrore.png" />
