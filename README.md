@@ -9,7 +9,7 @@
 
 <hr>
 
-> Currently exploring abstract expressionism 
+> Currently exploring abstract expressionism (all the art is digitally drawn)
 
 <img src="./wreckoffitzgerald.png" />
 
