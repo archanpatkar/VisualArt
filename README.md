@@ -13,7 +13,7 @@
 
 <img src="./wreckoffitzgerald.png" />
 
-<img src="./fragments.png" />
+<img src="./curve.png" />
 
 <img src="./butterfly.png" />
 
@@ -46,6 +46,8 @@
 <img src="./primitivity.png" />
 
 <img src="./veritas.png" />
+
+<img src="./fragments.png" />
 
 <img src="./pollockian.png" />
 
