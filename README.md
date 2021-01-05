@@ -53,6 +53,8 @@
 
 <img src="./pollockian.png" />
 
+<img src="./C001.png" />
+
 <img src="./dichotomy.png" />
 
 <img src="./dizzy.png" />
