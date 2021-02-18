@@ -55,6 +55,8 @@
 
 <img src="./C001.png" />
 
+<img src="./aurora.png" />
+
 <img src="./dichotomy.png" />
 
 <img src="./dizzy.png" />
