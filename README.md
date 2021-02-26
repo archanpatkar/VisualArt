@@ -11,13 +11,8 @@
 
 > Currently exploring abstract expressionism (all the art is digitally drawn)
 
-<img src="./wreckoffitzgerald.png" />
 
 <img src="./curve.png" />
-
-<img src="./butterfly.png" />
-
-<img src="./tornado.png" />
 
 <img src="./stripes.png" />
 
@@ -37,13 +32,21 @@
 
 <img src="./unknown.png" />
 
+<img src="./fire.png" />
+
+<img src="./wavy.png" />
+
+<img src="./LHC.png" />
+
 <img src="./redrore.png" />
 
 <img src="P001.png" />
 
-<img src="./fire.png" />
+<img src="./wreckoffitzgerald.png" />
 
-<img src="./wavy.png" />
+<img src="./butterfly.png" />
+
+<img src="./tornado.png" />
 
 <img src="./primitivity.png" />
 
