@@ -22,11 +22,15 @@
 
 <img src="./redbrain.png" />
 
+<img src="./G090.png" />
+
 <img src="./colorsynth.png" />
 
 <img src="./greying.png" />
 
 <img src="./velocity.png" />
+
+<img src="./B020.png" />
 
 <img src="./deception.png" />
 
