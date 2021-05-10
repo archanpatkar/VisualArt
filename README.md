@@ -28,6 +28,8 @@
 
 <img src="./greying.png" />
 
+<img src="./homotopy.png" />
+
 <img src="./velocity.png" />
 
 <img src="./B020.png" />
